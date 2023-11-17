@@ -1,0 +1,29 @@
+.header {
+    margin-top: 0;
+    text-shadow: red 5px 1px;
+    padding: 5px;
+    box-shadow: 5px 5px 20px white;
+}
+
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+footer{
+    color:blue;
+   background-color: lightgray;
+   font-size: 20px;
+   position:fixed;
+   bottom: 0;
+width: 100%;
+text-shadow: 2px 2px red;
+padding: 4px;
+box-shadow: inset 5px 5px 20px black;
+}
+
+canvas{
+    margin-top: 50px;
+    border:2px white;
+    border-style: solid;
+}
